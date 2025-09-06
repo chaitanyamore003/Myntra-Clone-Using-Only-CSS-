@@ -21,6 +21,7 @@ Check it out live here:
 
 ## 🔹 Project Structure
 Myntra-Clone-Using-Only-CSS-/
+
 ├── index.html ← Main HTML file
 
 ├── style.css ← Stylesheet

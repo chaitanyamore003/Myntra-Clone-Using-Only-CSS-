@@ -22,7 +22,12 @@ Check it out live here:
 ## 🔹 Project Structure
 Myntra-Clone-Using-Only-CSS-/
 ├── index.html ← Main HTML file
+
 ├── style.css ← Stylesheet
+
 ├── Images/ ← All images used in the project
+
 ├── README.md ← Project documentation
+
 └── .gitignore ← Git ignore file
+
